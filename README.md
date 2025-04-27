@@ -4,7 +4,7 @@ Hi, I'm Saniya Dixit — a passionate coder currently pursuing BCA, exploring th
 
 🔥 Skills
 
-- Languages: C, C++, Java, JavaScript
+- Languages: C, C++, Java, JavaScript, HTML, CSS
 - Tools: GitHub, VS Code, Canva
 - Other Knowledge: Linux, Computer Graphics
 
